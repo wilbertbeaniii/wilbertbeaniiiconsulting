@@ -1,15 +1,13 @@
 # wilbertbeaniiiconsulting
 This repo is for the consulting and professional services website updates and project management
 
-Template_Project_Charter 
-Problem Statement
-The problem statement should address these questions:
+Charter Summary:
 Our customer are not aware of us and our services. This problem is a constant issue because we aren't getting any interest from the market place. The frequency of this issue is constant because we aren't advertising and marketing our services. Slow growth, depleted financial holdings, longer pay periods for employees. 
 
 * What is the financial impact of the project and/or problem?
 
 Goal Statement
-Increase our website services from four to target of 24 every month
+Increase our website services from our current number of 4 customers to target number of 24 customers every month
 
 Scope - First/Last and In/Out
 1st Process Step
